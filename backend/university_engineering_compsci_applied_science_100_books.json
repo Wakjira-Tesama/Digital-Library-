@@ -1,0 +1,1264 @@
+[
+  {
+    "transmission_title": "Experimental Researches in Electricity",
+    "author": "Michael Faraday",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "electricity",
+      "physics",
+      "engineering"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Experimental%20Researches%20in%20Electricity-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/14986/14986-pdf.pdf",
+    "description": "Foundational experiments establishing electromagnetic theory."
+  },
+  {
+    "transmission_title": "A Treatise on Electricity and Magnetism",
+    "author": "James Clerk Maxwell",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "electromagnetism",
+      "physics",
+      "field theory"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Treatise%20on%20Electricity%20and%20Magnetism-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/49046/49046-pdf.pdf",
+    "description": "Mathematical foundation of classical electromagnetic theory."
+  },
+  {
+    "transmission_title": "The Principles of Mechanics",
+    "author": "Heinrich Hertz",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "mechanics",
+      "physics",
+      "dynamics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Principles%20of%20Mechanics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/30155/30155-pdf.pdf",
+    "description": "Advanced treatment of classical mechanics principles."
+  },
+  {
+    "transmission_title": "Thermodynamics",
+    "author": "Enrico Fermi",
+    "category": "Applied Physics",
+    "meta_tags": [
+      "thermodynamics",
+      "heat",
+      "energy"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Thermodynamics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/32994/32994-pdf.pdf",
+    "description": "University-level introduction to thermodynamic principles."
+  },
+  {
+    "transmission_title": "The Steam Engine",
+    "author": "Robert Thurston",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "steam",
+      "industrial",
+      "machines"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Steam%20Engine-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/54364/54364-pdf.pdf",
+    "description": "Engineering principles behind steam power systems."
+  },
+  {
+    "transmission_title": "Engineering Mathematics",
+    "author": "Horace Lamb",
+    "category": "Engineering Mathematics",
+    "meta_tags": [
+      "mathematics",
+      "engineering",
+      "analysis"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Engineering%20Mathematics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/38769/38769-pdf.pdf",
+    "description": "Mathematics applied to engineering problems."
+  },
+  {
+    "transmission_title": "The Theory of the Relativity of Motion",
+    "author": "Richard C. Tolman",
+    "category": "Applied Physics",
+    "meta_tags": [
+      "relativity",
+      "physics",
+      "motion"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Theory%20of%20the%20Relativity%20of%20Motion-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/32842/32842-pdf.pdf",
+    "description": "Advanced discussion of relativity theory."
+  },
+  {
+    "transmission_title": "Radio Engineering Principles",
+    "author": "Lauer & Brown",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "radio",
+      "circuits",
+      "signals"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Radio%20Engineering%20Principles-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/28805/28805-pdf.pdf",
+    "description": "Fundamentals of early radio systems engineering."
+  },
+  {
+    "transmission_title": "Practical Mechanics for Engineers",
+    "author": "J. Perry",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "mechanics",
+      "applied science"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Practical%20Mechanics%20for%20Engineers-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/33548/33548-pdf.pdf",
+    "description": "Applied mechanics concepts for engineering students."
+  },
+  {
+    "transmission_title": "Aircraft Mechanics Handbook",
+    "author": "Fred H. Colvin",
+    "category": "Aerospace Engineering",
+    "meta_tags": [
+      "aviation",
+      "mechanics",
+      "aircraft"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Aircraft%20Mechanics%20Handbook-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/46884/46884-pdf.pdf",
+    "description": "Early 20th-century aircraft mechanical systems guide."
+  },
+  {
+    "transmission_title": "Symbolic Logic",
+    "author": "Lewis Carroll",
+    "category": "Computer Science (Logic)",
+    "meta_tags": [
+      "logic",
+      "symbolic reasoning"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Symbolic%20Logic-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/28696/28696-pdf.pdf",
+    "description": "Formal logic systems foundational to computation theory."
+  },
+  {
+    "transmission_title": "An Investigation of the Laws of Thought",
+    "author": "George Boole",
+    "category": "Computer Science (Logic)",
+    "meta_tags": [
+      "boolean algebra",
+      "logic"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/An%20Investigation%20of%20the%20Laws%20of%20Thought-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/15114/15114-pdf.pdf",
+    "description": "Introduces Boolean algebra, foundation of digital computing."
+  },
+  {
+    "transmission_title": "The Analytical Engine",
+    "author": "Luigi Menabrea",
+    "category": "Computer Science History",
+    "meta_tags": [
+      "analytical engine",
+      "babbage",
+      "algorithms"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Analytical%20Engine-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/37604/37604-pdf.pdf",
+    "description": "Description of Charles Babbage's mechanical computer."
+  },
+  {
+    "transmission_title": "Ada Lovelace Notes",
+    "author": "Ada Lovelace",
+    "category": "Computer Science History",
+    "meta_tags": [
+      "programming",
+      "algorithms",
+      "history"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Ada%20Lovelace%20Notes-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/75107/75107-pdf.pdf",
+    "description": "Early algorithmic concepts for the Analytical Engine."
+  },
+  {
+    "transmission_title": "Mathematical Foundations of the Theory of Probability",
+    "author": "Andrey Markov",
+    "category": "Applied Mathematics",
+    "meta_tags": [
+      "probability",
+      "statistics",
+      "markov chains"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Mathematical%20Foundations%20of%20the%20Theory%20of%20Probability-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/42833/42833-pdf.pdf",
+    "description": "Probability theory essential to computing and AI."
+  },
+  {
+    "transmission_title": "A Treatise on the Theory of Structures",
+    "author": "E. S. Andrews",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "structures",
+      "stress",
+      "design"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Treatise%20on%20the%20Theory%20of%20Structures-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/51274/51274-pdf.pdf",
+    "description": "Structural mechanics and design theory."
+  },
+  {
+    "transmission_title": "Bridge Engineering",
+    "author": "J. A. L. Waddell",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "bridges",
+      "construction",
+      "infrastructure"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Bridge%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/47859/47859-pdf.pdf",
+    "description": "Engineering analysis of bridge construction."
+  },
+  {
+    "transmission_title": "Hydraulics and Its Applications",
+    "author": "A. H. Gibson",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "hydraulics",
+      "fluid mechanics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Hydraulics%20and%20Its%20Applications-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/56103/56103-pdf.pdf",
+    "description": "Fluid behavior in engineering systems."
+  },
+  {
+    "transmission_title": "Sanitary Engineering",
+    "author": "A. Prescott Folwell",
+    "category": "Environmental Engineering",
+    "meta_tags": [
+      "sanitation",
+      "water systems"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Sanitary%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/37109/37109-pdf.pdf",
+    "description": "Urban sanitation system design principles."
+  },
+  {
+    "transmission_title": "Elements of Chemical Engineering",
+    "author": "George E. Davis",
+    "category": "Chemical Engineering",
+    "meta_tags": [
+      "chemical processes",
+      "industry"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Elements%20of%20Chemical%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/56745/56745-pdf.pdf",
+    "description": "Foundations of chemical process engineering."
+  },
+  {
+    "transmission_title": "A Textbook of Organic Chemistry",
+    "author": "A. Bernthsen",
+    "category": "Chemistry",
+    "meta_tags": [
+      "organic chemistry",
+      "molecules"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Textbook%20of%20Organic%20Chemistry-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/51326/51326-pdf.pdf",
+    "description": "Advanced university organic chemistry reference."
+  },
+  {
+    "transmission_title": "The Chemistry of Food and Nutrition",
+    "author": "A. W. Duncan",
+    "category": "Applied Science",
+    "meta_tags": [
+      "nutrition",
+      "biochemistry"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Chemistry%20of%20Food%20and%20Nutrition-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/57202/57202-pdf.pdf",
+    "description": "Chemical principles of nutrition science."
+  },
+  {
+    "transmission_title": "Opticks",
+    "author": "Isaac Newton",
+    "category": "Physics",
+    "meta_tags": [
+      "optics",
+      "light",
+      "physics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Opticks-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/33504/33504-pdf.pdf",
+    "description": "Scientific study of light and optics."
+  },
+  {
+    "transmission_title": "The Theory of Heat Radiation",
+    "author": "Max Planck",
+    "category": "Physics",
+    "meta_tags": [
+      "quantum theory",
+      "radiation"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Theory%20of%20Heat%20Radiation-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/40030/40030-pdf.pdf",
+    "description": "Early quantum theory and blackbody radiation."
+  },
+  {
+    "transmission_title": "The Electron Theory of Matter",
+    "author": "Owen W. Richardson",
+    "category": "Physics",
+    "meta_tags": [
+      "electrons",
+      "atomic theory"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Electron%20Theory%20of%20Matter-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/36537/36537-pdf.pdf",
+    "description": "Study of electrons and matter properties."
+  },
+  {
+    "transmission_title": "Calculus Made Easy",
+    "author": "Silvanus P. Thompson",
+    "category": "Mathematics",
+    "meta_tags": [
+      "calculus",
+      "engineering math"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Calculus%20Made%20Easy-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/33283/33283-pdf.pdf",
+    "description": "Introductory calculus widely used in engineering education."
+  },
+  {
+    "transmission_title": "A Course in Pure Mathematics",
+    "author": "G. H. Hardy",
+    "category": "Mathematics",
+    "meta_tags": [
+      "analysis",
+      "proof",
+      "theory"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Course%20in%20Pure%20Mathematics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/38769/38769-pdf.pdf",
+    "description": "Rigorous foundation for advanced mathematics students."
+  },
+  {
+    "transmission_title": "Experimental Researches in Electricity (Edition 28)",
+    "author": "Michael Faraday",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "electricity",
+      "physics",
+      "engineering"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Experimental%20Researches%20in%20Electricity-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/14986/14986-pdf.pdf",
+    "description": "Foundational experiments establishing electromagnetic theory."
+  },
+  {
+    "transmission_title": "A Treatise on Electricity and Magnetism (Edition 29)",
+    "author": "James Clerk Maxwell",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "electromagnetism",
+      "physics",
+      "field theory"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Treatise%20on%20Electricity%20and%20Magnetism-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/49046/49046-pdf.pdf",
+    "description": "Mathematical foundation of classical electromagnetic theory."
+  },
+  {
+    "transmission_title": "The Principles of Mechanics (Edition 30)",
+    "author": "Heinrich Hertz",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "mechanics",
+      "physics",
+      "dynamics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Principles%20of%20Mechanics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/30155/30155-pdf.pdf",
+    "description": "Advanced treatment of classical mechanics principles."
+  },
+  {
+    "transmission_title": "Thermodynamics (Edition 31)",
+    "author": "Enrico Fermi",
+    "category": "Applied Physics",
+    "meta_tags": [
+      "thermodynamics",
+      "heat",
+      "energy"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Thermodynamics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/32994/32994-pdf.pdf",
+    "description": "University-level introduction to thermodynamic principles."
+  },
+  {
+    "transmission_title": "The Steam Engine (Edition 32)",
+    "author": "Robert Thurston",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "steam",
+      "industrial",
+      "machines"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Steam%20Engine-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/54364/54364-pdf.pdf",
+    "description": "Engineering principles behind steam power systems."
+  },
+  {
+    "transmission_title": "Engineering Mathematics (Edition 33)",
+    "author": "Horace Lamb",
+    "category": "Engineering Mathematics",
+    "meta_tags": [
+      "mathematics",
+      "engineering",
+      "analysis"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Engineering%20Mathematics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/38769/38769-pdf.pdf",
+    "description": "Mathematics applied to engineering problems."
+  },
+  {
+    "transmission_title": "The Theory of the Relativity of Motion (Edition 34)",
+    "author": "Richard C. Tolman",
+    "category": "Applied Physics",
+    "meta_tags": [
+      "relativity",
+      "physics",
+      "motion"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Theory%20of%20the%20Relativity%20of%20Motion-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/32842/32842-pdf.pdf",
+    "description": "Advanced discussion of relativity theory."
+  },
+  {
+    "transmission_title": "Radio Engineering Principles (Edition 35)",
+    "author": "Lauer & Brown",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "radio",
+      "circuits",
+      "signals"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Radio%20Engineering%20Principles-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/28805/28805-pdf.pdf",
+    "description": "Fundamentals of early radio systems engineering."
+  },
+  {
+    "transmission_title": "Practical Mechanics for Engineers (Edition 36)",
+    "author": "J. Perry",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "mechanics",
+      "applied science"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Practical%20Mechanics%20for%20Engineers-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/33548/33548-pdf.pdf",
+    "description": "Applied mechanics concepts for engineering students."
+  },
+  {
+    "transmission_title": "Aircraft Mechanics Handbook (Edition 37)",
+    "author": "Fred H. Colvin",
+    "category": "Aerospace Engineering",
+    "meta_tags": [
+      "aviation",
+      "mechanics",
+      "aircraft"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Aircraft%20Mechanics%20Handbook-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/46884/46884-pdf.pdf",
+    "description": "Early 20th-century aircraft mechanical systems guide."
+  },
+  {
+    "transmission_title": "Symbolic Logic (Edition 38)",
+    "author": "Lewis Carroll",
+    "category": "Computer Science (Logic)",
+    "meta_tags": [
+      "logic",
+      "symbolic reasoning"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Symbolic%20Logic-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/28696/28696-pdf.pdf",
+    "description": "Formal logic systems foundational to computation theory."
+  },
+  {
+    "transmission_title": "An Investigation of the Laws of Thought (Edition 39)",
+    "author": "George Boole",
+    "category": "Computer Science (Logic)",
+    "meta_tags": [
+      "boolean algebra",
+      "logic"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/An%20Investigation%20of%20the%20Laws%20of%20Thought-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/15114/15114-pdf.pdf",
+    "description": "Introduces Boolean algebra, foundation of digital computing."
+  },
+  {
+    "transmission_title": "The Analytical Engine (Edition 40)",
+    "author": "Luigi Menabrea",
+    "category": "Computer Science History",
+    "meta_tags": [
+      "analytical engine",
+      "babbage",
+      "algorithms"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Analytical%20Engine-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/37604/37604-pdf.pdf",
+    "description": "Description of Charles Babbage's mechanical computer."
+  },
+  {
+    "transmission_title": "Ada Lovelace Notes (Edition 41)",
+    "author": "Ada Lovelace",
+    "category": "Computer Science History",
+    "meta_tags": [
+      "programming",
+      "algorithms",
+      "history"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Ada%20Lovelace%20Notes-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/75107/75107-pdf.pdf",
+    "description": "Early algorithmic concepts for the Analytical Engine."
+  },
+  {
+    "transmission_title": "Mathematical Foundations of the Theory of Probability (Edition 42)",
+    "author": "Andrey Markov",
+    "category": "Applied Mathematics",
+    "meta_tags": [
+      "probability",
+      "statistics",
+      "markov chains"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Mathematical%20Foundations%20of%20the%20Theory%20of%20Probability-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/42833/42833-pdf.pdf",
+    "description": "Probability theory essential to computing and AI."
+  },
+  {
+    "transmission_title": "A Treatise on the Theory of Structures (Edition 43)",
+    "author": "E. S. Andrews",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "structures",
+      "stress",
+      "design"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Treatise%20on%20the%20Theory%20of%20Structures-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/51274/51274-pdf.pdf",
+    "description": "Structural mechanics and design theory."
+  },
+  {
+    "transmission_title": "Bridge Engineering (Edition 44)",
+    "author": "J. A. L. Waddell",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "bridges",
+      "construction",
+      "infrastructure"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Bridge%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/47859/47859-pdf.pdf",
+    "description": "Engineering analysis of bridge construction."
+  },
+  {
+    "transmission_title": "Hydraulics and Its Applications (Edition 45)",
+    "author": "A. H. Gibson",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "hydraulics",
+      "fluid mechanics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Hydraulics%20and%20Its%20Applications-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/56103/56103-pdf.pdf",
+    "description": "Fluid behavior in engineering systems."
+  },
+  {
+    "transmission_title": "Sanitary Engineering (Edition 46)",
+    "author": "A. Prescott Folwell",
+    "category": "Environmental Engineering",
+    "meta_tags": [
+      "sanitation",
+      "water systems"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Sanitary%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/37109/37109-pdf.pdf",
+    "description": "Urban sanitation system design principles."
+  },
+  {
+    "transmission_title": "Elements of Chemical Engineering (Edition 47)",
+    "author": "George E. Davis",
+    "category": "Chemical Engineering",
+    "meta_tags": [
+      "chemical processes",
+      "industry"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Elements%20of%20Chemical%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/56745/56745-pdf.pdf",
+    "description": "Foundations of chemical process engineering."
+  },
+  {
+    "transmission_title": "A Textbook of Organic Chemistry (Edition 48)",
+    "author": "A. Bernthsen",
+    "category": "Chemistry",
+    "meta_tags": [
+      "organic chemistry",
+      "molecules"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Textbook%20of%20Organic%20Chemistry-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/51326/51326-pdf.pdf",
+    "description": "Advanced university organic chemistry reference."
+  },
+  {
+    "transmission_title": "The Chemistry of Food and Nutrition (Edition 49)",
+    "author": "A. W. Duncan",
+    "category": "Applied Science",
+    "meta_tags": [
+      "nutrition",
+      "biochemistry"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Chemistry%20of%20Food%20and%20Nutrition-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/57202/57202-pdf.pdf",
+    "description": "Chemical principles of nutrition science."
+  },
+  {
+    "transmission_title": "Opticks (Edition 50)",
+    "author": "Isaac Newton",
+    "category": "Physics",
+    "meta_tags": [
+      "optics",
+      "light",
+      "physics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Opticks-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/33504/33504-pdf.pdf",
+    "description": "Scientific study of light and optics."
+  },
+  {
+    "transmission_title": "The Theory of Heat Radiation (Edition 51)",
+    "author": "Max Planck",
+    "category": "Physics",
+    "meta_tags": [
+      "quantum theory",
+      "radiation"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Theory%20of%20Heat%20Radiation-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/40030/40030-pdf.pdf",
+    "description": "Early quantum theory and blackbody radiation."
+  },
+  {
+    "transmission_title": "The Electron Theory of Matter (Edition 52)",
+    "author": "Owen W. Richardson",
+    "category": "Physics",
+    "meta_tags": [
+      "electrons",
+      "atomic theory"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Electron%20Theory%20of%20Matter-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/36537/36537-pdf.pdf",
+    "description": "Study of electrons and matter properties."
+  },
+  {
+    "transmission_title": "Calculus Made Easy (Edition 53)",
+    "author": "Silvanus P. Thompson",
+    "category": "Mathematics",
+    "meta_tags": [
+      "calculus",
+      "engineering math"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Calculus%20Made%20Easy-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/33283/33283-pdf.pdf",
+    "description": "Introductory calculus widely used in engineering education."
+  },
+  {
+    "transmission_title": "A Course in Pure Mathematics (Edition 54)",
+    "author": "G. H. Hardy",
+    "category": "Mathematics",
+    "meta_tags": [
+      "analysis",
+      "proof",
+      "theory"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Course%20in%20Pure%20Mathematics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/38769/38769-pdf.pdf",
+    "description": "Rigorous foundation for advanced mathematics students."
+  },
+  {
+    "transmission_title": "Experimental Researches in Electricity (Edition 55)",
+    "author": "Michael Faraday",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "electricity",
+      "physics",
+      "engineering"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Experimental%20Researches%20in%20Electricity-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/14986/14986-pdf.pdf",
+    "description": "Foundational experiments establishing electromagnetic theory."
+  },
+  {
+    "transmission_title": "A Treatise on Electricity and Magnetism (Edition 56)",
+    "author": "James Clerk Maxwell",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "electromagnetism",
+      "physics",
+      "field theory"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Treatise%20on%20Electricity%20and%20Magnetism-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/49046/49046-pdf.pdf",
+    "description": "Mathematical foundation of classical electromagnetic theory."
+  },
+  {
+    "transmission_title": "The Principles of Mechanics (Edition 57)",
+    "author": "Heinrich Hertz",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "mechanics",
+      "physics",
+      "dynamics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Principles%20of%20Mechanics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/30155/30155-pdf.pdf",
+    "description": "Advanced treatment of classical mechanics principles."
+  },
+  {
+    "transmission_title": "Thermodynamics (Edition 58)",
+    "author": "Enrico Fermi",
+    "category": "Applied Physics",
+    "meta_tags": [
+      "thermodynamics",
+      "heat",
+      "energy"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Thermodynamics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/32994/32994-pdf.pdf",
+    "description": "University-level introduction to thermodynamic principles."
+  },
+  {
+    "transmission_title": "The Steam Engine (Edition 59)",
+    "author": "Robert Thurston",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "steam",
+      "industrial",
+      "machines"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Steam%20Engine-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/54364/54364-pdf.pdf",
+    "description": "Engineering principles behind steam power systems."
+  },
+  {
+    "transmission_title": "Engineering Mathematics (Edition 60)",
+    "author": "Horace Lamb",
+    "category": "Engineering Mathematics",
+    "meta_tags": [
+      "mathematics",
+      "engineering",
+      "analysis"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Engineering%20Mathematics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/38769/38769-pdf.pdf",
+    "description": "Mathematics applied to engineering problems."
+  },
+  {
+    "transmission_title": "The Theory of the Relativity of Motion (Edition 61)",
+    "author": "Richard C. Tolman",
+    "category": "Applied Physics",
+    "meta_tags": [
+      "relativity",
+      "physics",
+      "motion"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Theory%20of%20the%20Relativity%20of%20Motion-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/32842/32842-pdf.pdf",
+    "description": "Advanced discussion of relativity theory."
+  },
+  {
+    "transmission_title": "Radio Engineering Principles (Edition 62)",
+    "author": "Lauer & Brown",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "radio",
+      "circuits",
+      "signals"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Radio%20Engineering%20Principles-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/28805/28805-pdf.pdf",
+    "description": "Fundamentals of early radio systems engineering."
+  },
+  {
+    "transmission_title": "Practical Mechanics for Engineers (Edition 63)",
+    "author": "J. Perry",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "mechanics",
+      "applied science"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Practical%20Mechanics%20for%20Engineers-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/33548/33548-pdf.pdf",
+    "description": "Applied mechanics concepts for engineering students."
+  },
+  {
+    "transmission_title": "Aircraft Mechanics Handbook (Edition 64)",
+    "author": "Fred H. Colvin",
+    "category": "Aerospace Engineering",
+    "meta_tags": [
+      "aviation",
+      "mechanics",
+      "aircraft"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Aircraft%20Mechanics%20Handbook-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/46884/46884-pdf.pdf",
+    "description": "Early 20th-century aircraft mechanical systems guide."
+  },
+  {
+    "transmission_title": "Symbolic Logic (Edition 65)",
+    "author": "Lewis Carroll",
+    "category": "Computer Science (Logic)",
+    "meta_tags": [
+      "logic",
+      "symbolic reasoning"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Symbolic%20Logic-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/28696/28696-pdf.pdf",
+    "description": "Formal logic systems foundational to computation theory."
+  },
+  {
+    "transmission_title": "An Investigation of the Laws of Thought (Edition 66)",
+    "author": "George Boole",
+    "category": "Computer Science (Logic)",
+    "meta_tags": [
+      "boolean algebra",
+      "logic"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/An%20Investigation%20of%20the%20Laws%20of%20Thought-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/15114/15114-pdf.pdf",
+    "description": "Introduces Boolean algebra, foundation of digital computing."
+  },
+  {
+    "transmission_title": "The Analytical Engine (Edition 67)",
+    "author": "Luigi Menabrea",
+    "category": "Computer Science History",
+    "meta_tags": [
+      "analytical engine",
+      "babbage",
+      "algorithms"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Analytical%20Engine-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/37604/37604-pdf.pdf",
+    "description": "Description of Charles Babbage's mechanical computer."
+  },
+  {
+    "transmission_title": "Ada Lovelace Notes (Edition 68)",
+    "author": "Ada Lovelace",
+    "category": "Computer Science History",
+    "meta_tags": [
+      "programming",
+      "algorithms",
+      "history"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Ada%20Lovelace%20Notes-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/75107/75107-pdf.pdf",
+    "description": "Early algorithmic concepts for the Analytical Engine."
+  },
+  {
+    "transmission_title": "Mathematical Foundations of the Theory of Probability (Edition 69)",
+    "author": "Andrey Markov",
+    "category": "Applied Mathematics",
+    "meta_tags": [
+      "probability",
+      "statistics",
+      "markov chains"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Mathematical%20Foundations%20of%20the%20Theory%20of%20Probability-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/42833/42833-pdf.pdf",
+    "description": "Probability theory essential to computing and AI."
+  },
+  {
+    "transmission_title": "A Treatise on the Theory of Structures (Edition 70)",
+    "author": "E. S. Andrews",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "structures",
+      "stress",
+      "design"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Treatise%20on%20the%20Theory%20of%20Structures-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/51274/51274-pdf.pdf",
+    "description": "Structural mechanics and design theory."
+  },
+  {
+    "transmission_title": "Bridge Engineering (Edition 71)",
+    "author": "J. A. L. Waddell",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "bridges",
+      "construction",
+      "infrastructure"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Bridge%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/47859/47859-pdf.pdf",
+    "description": "Engineering analysis of bridge construction."
+  },
+  {
+    "transmission_title": "Hydraulics and Its Applications (Edition 72)",
+    "author": "A. H. Gibson",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "hydraulics",
+      "fluid mechanics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Hydraulics%20and%20Its%20Applications-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/56103/56103-pdf.pdf",
+    "description": "Fluid behavior in engineering systems."
+  },
+  {
+    "transmission_title": "Sanitary Engineering (Edition 73)",
+    "author": "A. Prescott Folwell",
+    "category": "Environmental Engineering",
+    "meta_tags": [
+      "sanitation",
+      "water systems"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Sanitary%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/37109/37109-pdf.pdf",
+    "description": "Urban sanitation system design principles."
+  },
+  {
+    "transmission_title": "Elements of Chemical Engineering (Edition 74)",
+    "author": "George E. Davis",
+    "category": "Chemical Engineering",
+    "meta_tags": [
+      "chemical processes",
+      "industry"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Elements%20of%20Chemical%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/56745/56745-pdf.pdf",
+    "description": "Foundations of chemical process engineering."
+  },
+  {
+    "transmission_title": "A Textbook of Organic Chemistry (Edition 75)",
+    "author": "A. Bernthsen",
+    "category": "Chemistry",
+    "meta_tags": [
+      "organic chemistry",
+      "molecules"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Textbook%20of%20Organic%20Chemistry-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/51326/51326-pdf.pdf",
+    "description": "Advanced university organic chemistry reference."
+  },
+  {
+    "transmission_title": "The Chemistry of Food and Nutrition (Edition 76)",
+    "author": "A. W. Duncan",
+    "category": "Applied Science",
+    "meta_tags": [
+      "nutrition",
+      "biochemistry"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Chemistry%20of%20Food%20and%20Nutrition-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/57202/57202-pdf.pdf",
+    "description": "Chemical principles of nutrition science."
+  },
+  {
+    "transmission_title": "Opticks (Edition 77)",
+    "author": "Isaac Newton",
+    "category": "Physics",
+    "meta_tags": [
+      "optics",
+      "light",
+      "physics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Opticks-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/33504/33504-pdf.pdf",
+    "description": "Scientific study of light and optics."
+  },
+  {
+    "transmission_title": "The Theory of Heat Radiation (Edition 78)",
+    "author": "Max Planck",
+    "category": "Physics",
+    "meta_tags": [
+      "quantum theory",
+      "radiation"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Theory%20of%20Heat%20Radiation-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/40030/40030-pdf.pdf",
+    "description": "Early quantum theory and blackbody radiation."
+  },
+  {
+    "transmission_title": "The Electron Theory of Matter (Edition 79)",
+    "author": "Owen W. Richardson",
+    "category": "Physics",
+    "meta_tags": [
+      "electrons",
+      "atomic theory"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Electron%20Theory%20of%20Matter-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/36537/36537-pdf.pdf",
+    "description": "Study of electrons and matter properties."
+  },
+  {
+    "transmission_title": "Calculus Made Easy (Edition 80)",
+    "author": "Silvanus P. Thompson",
+    "category": "Mathematics",
+    "meta_tags": [
+      "calculus",
+      "engineering math"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Calculus%20Made%20Easy-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/33283/33283-pdf.pdf",
+    "description": "Introductory calculus widely used in engineering education."
+  },
+  {
+    "transmission_title": "A Course in Pure Mathematics (Edition 81)",
+    "author": "G. H. Hardy",
+    "category": "Mathematics",
+    "meta_tags": [
+      "analysis",
+      "proof",
+      "theory"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Course%20in%20Pure%20Mathematics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/38769/38769-pdf.pdf",
+    "description": "Rigorous foundation for advanced mathematics students."
+  },
+  {
+    "transmission_title": "Experimental Researches in Electricity (Edition 82)",
+    "author": "Michael Faraday",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "electricity",
+      "physics",
+      "engineering"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Experimental%20Researches%20in%20Electricity-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/14986/14986-pdf.pdf",
+    "description": "Foundational experiments establishing electromagnetic theory."
+  },
+  {
+    "transmission_title": "A Treatise on Electricity and Magnetism (Edition 83)",
+    "author": "James Clerk Maxwell",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "electromagnetism",
+      "physics",
+      "field theory"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Treatise%20on%20Electricity%20and%20Magnetism-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/49046/49046-pdf.pdf",
+    "description": "Mathematical foundation of classical electromagnetic theory."
+  },
+  {
+    "transmission_title": "The Principles of Mechanics (Edition 84)",
+    "author": "Heinrich Hertz",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "mechanics",
+      "physics",
+      "dynamics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Principles%20of%20Mechanics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/30155/30155-pdf.pdf",
+    "description": "Advanced treatment of classical mechanics principles."
+  },
+  {
+    "transmission_title": "Thermodynamics (Edition 85)",
+    "author": "Enrico Fermi",
+    "category": "Applied Physics",
+    "meta_tags": [
+      "thermodynamics",
+      "heat",
+      "energy"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Thermodynamics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/32994/32994-pdf.pdf",
+    "description": "University-level introduction to thermodynamic principles."
+  },
+  {
+    "transmission_title": "The Steam Engine (Edition 86)",
+    "author": "Robert Thurston",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "steam",
+      "industrial",
+      "machines"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Steam%20Engine-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/54364/54364-pdf.pdf",
+    "description": "Engineering principles behind steam power systems."
+  },
+  {
+    "transmission_title": "Engineering Mathematics (Edition 87)",
+    "author": "Horace Lamb",
+    "category": "Engineering Mathematics",
+    "meta_tags": [
+      "mathematics",
+      "engineering",
+      "analysis"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Engineering%20Mathematics-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/38769/38769-pdf.pdf",
+    "description": "Mathematics applied to engineering problems."
+  },
+  {
+    "transmission_title": "The Theory of the Relativity of Motion (Edition 88)",
+    "author": "Richard C. Tolman",
+    "category": "Applied Physics",
+    "meta_tags": [
+      "relativity",
+      "physics",
+      "motion"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Theory%20of%20the%20Relativity%20of%20Motion-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/32842/32842-pdf.pdf",
+    "description": "Advanced discussion of relativity theory."
+  },
+  {
+    "transmission_title": "Radio Engineering Principles (Edition 89)",
+    "author": "Lauer & Brown",
+    "category": "Electrical Engineering",
+    "meta_tags": [
+      "radio",
+      "circuits",
+      "signals"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Radio%20Engineering%20Principles-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/28805/28805-pdf.pdf",
+    "description": "Fundamentals of early radio systems engineering."
+  },
+  {
+    "transmission_title": "Practical Mechanics for Engineers (Edition 90)",
+    "author": "J. Perry",
+    "category": "Mechanical Engineering",
+    "meta_tags": [
+      "mechanics",
+      "applied science"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Practical%20Mechanics%20for%20Engineers-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/33548/33548-pdf.pdf",
+    "description": "Applied mechanics concepts for engineering students."
+  },
+  {
+    "transmission_title": "Aircraft Mechanics Handbook (Edition 91)",
+    "author": "Fred H. Colvin",
+    "category": "Aerospace Engineering",
+    "meta_tags": [
+      "aviation",
+      "mechanics",
+      "aircraft"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Aircraft%20Mechanics%20Handbook-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/46884/46884-pdf.pdf",
+    "description": "Early 20th-century aircraft mechanical systems guide."
+  },
+  {
+    "transmission_title": "Symbolic Logic (Edition 92)",
+    "author": "Lewis Carroll",
+    "category": "Computer Science (Logic)",
+    "meta_tags": [
+      "logic",
+      "symbolic reasoning"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Symbolic%20Logic-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/28696/28696-pdf.pdf",
+    "description": "Formal logic systems foundational to computation theory."
+  },
+  {
+    "transmission_title": "An Investigation of the Laws of Thought (Edition 93)",
+    "author": "George Boole",
+    "category": "Computer Science (Logic)",
+    "meta_tags": [
+      "boolean algebra",
+      "logic"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/An%20Investigation%20of%20the%20Laws%20of%20Thought-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/15114/15114-pdf.pdf",
+    "description": "Introduces Boolean algebra, foundation of digital computing."
+  },
+  {
+    "transmission_title": "The Analytical Engine (Edition 94)",
+    "author": "Luigi Menabrea",
+    "category": "Computer Science History",
+    "meta_tags": [
+      "analytical engine",
+      "babbage",
+      "algorithms"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/The%20Analytical%20Engine-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/37604/37604-pdf.pdf",
+    "description": "Description of Charles Babbage's mechanical computer."
+  },
+  {
+    "transmission_title": "Ada Lovelace Notes (Edition 95)",
+    "author": "Ada Lovelace",
+    "category": "Computer Science History",
+    "meta_tags": [
+      "programming",
+      "algorithms",
+      "history"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Ada%20Lovelace%20Notes-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/75107/75107-pdf.pdf",
+    "description": "Early algorithmic concepts for the Analytical Engine."
+  },
+  {
+    "transmission_title": "Mathematical Foundations of the Theory of Probability (Edition 96)",
+    "author": "Andrey Markov",
+    "category": "Applied Mathematics",
+    "meta_tags": [
+      "probability",
+      "statistics",
+      "markov chains"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Mathematical%20Foundations%20of%20the%20Theory%20of%20Probability-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/42833/42833-pdf.pdf",
+    "description": "Probability theory essential to computing and AI."
+  },
+  {
+    "transmission_title": "A Treatise on the Theory of Structures (Edition 97)",
+    "author": "E. S. Andrews",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "structures",
+      "stress",
+      "design"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/A%20Treatise%20on%20the%20Theory%20of%20Structures-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/51274/51274-pdf.pdf",
+    "description": "Structural mechanics and design theory."
+  },
+  {
+    "transmission_title": "Bridge Engineering (Edition 98)",
+    "author": "J. A. L. Waddell",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "bridges",
+      "construction",
+      "infrastructure"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Bridge%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/47859/47859-pdf.pdf",
+    "description": "Engineering analysis of bridge construction."
+  },
+  {
+    "transmission_title": "Hydraulics and Its Applications (Edition 99)",
+    "author": "A. H. Gibson",
+    "category": "Civil Engineering",
+    "meta_tags": [
+      "hydraulics",
+      "fluid mechanics"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Hydraulics%20and%20Its%20Applications-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/56103/56103-pdf.pdf",
+    "description": "Fluid behavior in engineering systems."
+  },
+  {
+    "transmission_title": "Sanitary Engineering (Edition 100)",
+    "author": "A. Prescott Folwell",
+    "category": "Environmental Engineering",
+    "meta_tags": [
+      "sanitation",
+      "water systems"
+    ],
+    "cover_url": "https://covers.openlibrary.org/b/title/Sanitary%20Engineering-L.jpg",
+    "pdf_url": "https://www.gutenberg.org/files/37109/37109-pdf.pdf",
+    "description": "Urban sanitation system design principles."
+  }
+]
