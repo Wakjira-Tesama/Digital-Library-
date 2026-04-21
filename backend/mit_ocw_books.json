@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Structure and Interpretation of Computer Programs (SICP)",
+    "author": "Harold Abelson, Gerald Jay Sussman, Julie Sussman",
+    "description": "The quintessential MIT computer science course textbook. SICP provides an introductory overview of computer science, covering functional programming, abstraction, meta-linguistic abstraction, and register machines.",
+    "category": "Computer Science (Logic)",
+    "tags": ["scheme", "lisp", "functional programming", "algorithms"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Introduction to Algorithms (CLRS)",
+    "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "description": "Comprehensive reference for the study of computer algorithms at MIT (6.046). Covers sorting, data structures, graph algorithms, and NP-completeness.",
+    "category": "Computer Science (Logic)",
+    "tags": ["algorithms", "data structures", "dynamic programming", "graphs"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Street-Fighting Mathematics",
+    "author": "Sanjoy Mahajan",
+    "description": "An antidote to rigorous math teaching. Using guessing, approximation, and dimensional analysis, this MIT text shows how to quickly arrive at useful answers to complex mathematical and engineering problems without needing exact proof.",
+    "category": "Applied Mathematics",
+    "tags": ["mathematics", "approximation", "engineering math", "heuristics"],
+    "externalLink": "https://ocw.mit.edu/courses/mathematics/18-098-street-fighting-mathematics-january-iap-2008/",
+    "coverUrl": "/covers/math.svg"
+  },
+  {
+    "title": "Signals and Systems",
+    "author": "Alan V. Oppenheim, Alan S. Willsky",
+    "description": "The classic MIT text on analyzing signals and linear, time-invariant systems. Addresses continuous-time and discrete-time signals, Fourier transforms, and the Laplace transform.",
+    "category": "Electrical Engineering",
+    "tags": ["signals", "systems", "fourier transform", "laplace", "dsp"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/",
+    "coverUrl": "/covers/electrical.svg"
+  },
+  {
+    "title": "Information Theory, Inference, and Learning Algorithms",
+    "author": "David J.C. MacKay",
+    "description": "Used heavily in MIT's graduate ML and Info Theory courses. This book provides a clear, comprehensive introduction to information theory alongside neural networks and machine learning.",
+    "category": "Computer Science (Logic)",
+    "tags": ["machine learning", "information theory", "inference", "AI"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2016/",
+    "coverUrl": "/covers/ai.svg"
+  },
+  {
+    "title": "Calculus",
+    "author": "Gilbert Strang",
+    "description": "Written by renowned MIT professor Gilbert Strang, this textbook presents calculus with applications in physics and engineering. Includes single-variable and multivariable calculus.",
+    "category": "Applied Mathematics",
+    "tags": ["calculus", "strang", "derivatives", "integrals", "vectors"],
+    "externalLink": "https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/",
+    "coverUrl": "/covers/math.svg"
+  },
+  {
+    "title": "Introduction to Linear Algebra",
+    "author": "Gilbert Strang",
+    "description": "The foundational text for MIT's legendary 18.06 course. Focuses heavily on matrices, vectors, eigenvalues, singular value decomposition (SVD), and practical applications over pure proofs.",
+    "category": "Engineering Mathematics",
+    "tags": ["linear algebra", "matrices", "SVD", "eigenvectors", "strang"],
+    "externalLink": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/",
+    "coverUrl": "/covers/math.svg"
+  },
+  {
+    "title": "Mathematics for Computer Science",
+    "author": "Eric Lehman, F. Thomson Leighton, Albert R. Meyer",
+    "description": "The official MIT course notes for 6.042J. Covers discrete mathematics, proofs, graph theory, state machines, asymptotics, and discrete probability theory.",
+    "category": "Computer Science (Logic)",
+    "tags": ["discrete math", "graph theory", "probability", "proofs"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Understanding Lasers: An Entry-Level Guide",
+    "author": "Jeff Hecht (Featured via OCW Supplemental)",
+    "description": "Supplemental text used in introductory MIT physics. This resource covers the fundamentals of optics, photonics, and how different types of lasers operate.",
+    "category": "Applied Physics",
+    "tags": ["optics", "physics", "photonics", "lasers"],
+    "externalLink": "https://ocw.mit.edu/courses/physics/8-03-physics-iii-vibrations-and-waves-fall-2004/",
+    "coverUrl": "/covers/physics.svg"
+  },
+  {
+    "title": "Fundamentals of Solid State Engineering",
+    "author": "Manijeh Razeghi (Referenced MIT materials)",
+    "description": "Course notes examining crystal structures, semiconductor physics, band theory, and quantum mechanics applied to solid-state materials.",
+    "category": "Electrical Engineering",
+    "tags": ["semiconductors", "solid state", "quantum", "band theory"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-701-introduction-to-nanoelectronics-spring-2010/",
+    "coverUrl": "/covers/electrical.svg"
+  },
+  {
+    "title": "Electromagnetic Fields and Energy",
+    "author": "Hermann A. Haus, James R. Melcher",
+    "description": "A classic MIT text presenting a macroscopic view of electrodynamics. It deeply covers Maxwell's equations with numerous engineering examples from power generation to photonics.",
+    "category": "Electrical Engineering",
+    "tags": ["electromagnetism", "maxwell", "circuits", "energy"],
+    "externalLink": "https://ocw.mit.edu/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/",
+    "coverUrl": "/covers/electrical.svg"
+  },
+  {
+    "title": "Fluid Dynamics for Physicists and Engineers",
+    "author": "T.E. Faber (Used in MIT Fluid Mechanics)",
+    "description": "Essential readings for mechanical fluid dynamics handling subjects like incompressible flow, Navier-Stokes equations, vorticity, and aerodynamic drag.",
+    "category": "Mechanical Engineering",
+    "tags": ["fluids", "aerodynamics", "navier-stokes", "mechanics"],
+    "externalLink": "https://ocw.mit.edu/courses/mechanical-engineering/2-06-fluid-dynamics-spring-2013/",
+    "coverUrl": "/covers/mechanical.svg"
+  },
+  {
+    "title": "Quantum Mechanics and Path Integrals",
+    "author": "Richard Feynman, Albert Hibbs",
+    "description": "Provides a rigorous path-integral formulation of quantum mechanics. Frequently referenced in advanced MIT physics courses (8.04, 8.05).",
+    "category": "Applied Physics",
+    "tags": ["quantum mechanics", "feynman", "path integrals", "physics"],
+    "externalLink": "https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/",
+    "coverUrl": "/covers/physics.svg"
+  },
+  {
+    "title": "Thermodynamics and Kinetics",
+    "author": "MIT Faculty Notes (5.60)",
+    "description": "The official MIT course notes for Physical Chemistry 5.60. Presents the laws of thermodynamics, entropy, phase equilibria, and chemical reaction kinetics.",
+    "category": "Chemistry",
+    "tags": ["thermodynamics", "entropy", "kinetics", "physical chemistry"],
+    "externalLink": "https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/",
+    "coverUrl": "/covers/chemistry.svg"
+  },
+  {
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell, Peter Norvig",
+    "description": "The standard textbook for MIT's core AI course. Explores search algorithms, knowledge representation, probabilistic reasoning, and highly advanced machine learning.",
+    "category": "Computer Science (Logic)",
+    "tags": ["AI", "machine learning", "search", "probabilistic models"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/",
+    "coverUrl": "/covers/ai.svg"
+  },
+  {
+    "title": "Compiler Design in C",
+    "author": "Allen I. Holub (Supplemental)",
+    "description": "Used widely for exploring lexers, parsers, and machine code generation in computer science engineering courses focusing on compilers.",
+    "category": "Computer Science (Logic)",
+    "tags": ["compilers", "C", "lexers", "parsers"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Principles of Chemical Science",
+    "author": "MIT Faculty Notes (5.111)",
+    "description": "Introductory chemistry materials examining atomic structure, chemical bonding, and acid-base thermodynamics.",
+    "category": "Chemistry",
+    "tags": ["chemical bonds", "atomic structure", "acids", "bases"],
+    "externalLink": "https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/",
+    "coverUrl": "/covers/chemistry.svg"
+  },
+  {
+    "title": "Mechanics of Materials",
+    "author": "MIT Faculty Notes (2.001)",
+    "description": "Fundamental mechanical engineering text examining stress, strain, elastic deformation, and failure criteria for solid structural elements.",
+    "category": "Mechanical Engineering",
+    "tags": ["stress", "strain", "materials", "solid mechanics"],
+    "externalLink": "https://ocw.mit.edu/courses/mechanical-engineering/2-001-mechanics-materials-i-fall-2006/",
+    "coverUrl": "/covers/mechanical.svg"
+  },
+  {
+    "title": "Introduction to Deep Learning",
+    "author": "Alexander Amini, Ava Amini (MIT 6.S191)",
+    "description": "Comprehensive course notes and slides regarding Neural Networks, CNNs, RNNs, Deep Reinforcement Learning, and limitations of modern AI models.",
+    "category": "Computer Science (Logic)",
+    "tags": ["deep learning", "neural networks", "CNN", "RNN", "AI"],
+    "externalLink": "http://introtodeeplearning.com/",
+    "coverUrl": "/covers/ai.svg"
+  },
+  {
+    "title": "Operating System Engineering",
+    "author": "Frans Kaashoek, Robert Morris",
+    "description": "MIT's xv6 operating system textbook. Explains UNIX-like OS kernels, processes, memory management, file systems, and concurrency.",
+    "category": "Computer Science (Logic)",
+    "tags": ["operating systems", "unix", "xv6", "concurrency", "kernels"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Engineering Dynamics",
+    "author": "MIT Faculty Notes (2.003)",
+    "description": "Application of Newtonian principles to the motion of particles, systems of particles, and rigid bodies in 2D and 3D space.",
+    "category": "Mechanical Engineering",
+    "tags": ["dynamics", "kinematics", "rigid bodies", "newtonian mechanics"],
+    "externalLink": "https://ocw.mit.edu/courses/mechanical-engineering/2-003sc-engineering-dynamics-fall-2011/",
+    "coverUrl": "/covers/mechanical.svg"
+  },
+  {
+    "title": "Design of Electromechanical Robotic Systems",
+    "author": "MIT Faculty Notes (2.007)",
+    "description": "Focuses on hands-on design of robotic systems, integrating CAD design, microcontrollers, and actuator mechanisms.",
+    "category": "Mechanical Engineering",
+    "tags": ["robotics", "electromechanical", "CAD", "actuators"],
+    "externalLink": "https://ocw.mit.edu/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/",
+    "coverUrl": "/covers/mechanical.svg"
+  },
+  {
+    "title": "Introduction to Machine Learning",
+    "author": "MIT Faculty Notes (6.036)",
+    "description": "Explores supervised learning, margin maximization, gradient descent, feature extraction, convolutional architectures, and validation techniques.",
+    "category": "Computer Science (Logic)",
+    "tags": ["machine learning", "gradient descent", "SVM", "classification"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/",
+    "coverUrl": "/covers/ai.svg"
+  },
+  {
+    "title": "Introduction to Electrical Engineering and Computer Science I",
+    "author": "MIT Faculty Notes (6.01)",
+    "description": "Bridges Python software engineering with hardware interfacing. Focuses on feedback control systems, object-oriented programming, and circuits.",
+    "category": "Electrical Engineering",
+    "tags": ["python", "hardware", "software engineering", "circuits"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/",
+    "coverUrl": "/covers/electrical.svg"
+  },
+  {
+    "title": "Advanced Data Structures",
+    "author": "Erik Demaine (MIT 6.851)",
+    "description": "Focuses on high-performance data structures including succint structures, self-adjusting trees, and dynamic graphs.",
+    "category": "Computer Science (Logic)",
+    "tags": ["advanced data structures", "trees", "graphs", "optimization"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Aerodynamics",
+    "author": "MIT Faculty Notes (16.100)",
+    "description": "Explores the fundamental physical principles governing aircraft behavior, including lift, drag, boundary layers, and compressible airflow.",
+    "category": "Aerospace Engineering",
+    "tags": ["aerodynamics", "aircraft", "lift", "fluid dynamics"],
+    "externalLink": "https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-100-aerodynamics-fall-2005/",
+    "coverUrl": "/covers/aerospace.svg"
+  },
+  {
+    "title": "Principles of Digital Communication II",
+    "author": "Robert Gallager",
+    "description": "The foundation of modern telecommunications. Discusses source coding, channel capacity, error-correction codes, and modulation over noisy channels.",
+    "category": "Electrical Engineering",
+    "tags": ["digital communication", "telecommunications", "error correction", "modulation"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-451-principles-of-digital-communication-ii-spring-2005/",
+    "coverUrl": "/covers/electrical.svg"
+  },
+  {
+    "title": "Elements of Software Construction",
+    "author": "Robert Miller",
+    "description": "Official course notes for MIT 6.005. Focuses immensely on creating safe from bugs, easy to understand, and ready for change software using modern Java.",
+    "category": "Computer Science (Logic)",
+    "tags": ["software engineering", "java", "design patterns", "testing"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Differential Equations",
+    "author": "Arthur Mattuck",
+    "description": "Covers linear ODEs, the Laplace transform, and systems of first-order differential equations, modeling many engineering systems.",
+    "category": "Engineering Mathematics",
+    "tags": ["ODE", "differential equations", "laplace", "systems modeling"],
+    "externalLink": "https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/",
+    "coverUrl": "/covers/math.svg"
+  },
+  {
+    "title": "Microelectronic Devices and Circuits",
+    "author": "Clifton Fonstad",
+    "description": "An introduction to semiconductor devices, extracting bipolar and field-effect transistor characteristics to build analog amplifiers and digital logic gates.",
+    "category": "Electrical Engineering",
+    "tags": ["microelectronics", "transistors", "circuits", "VLSI"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-fall-2005/",
+    "coverUrl": "/covers/electrical.svg"
+  },
+  {
+    "title": "Advanced Computer Architecture",
+    "author": "Arvind, Krste Asanovic",
+    "description": "Analyzes the design of modern complex processors. Deals with pipelining, speculative execution, cache coherence, and hardware multithreading.",
+    "category": "Computer Science (Logic)",
+    "tags": ["computer architecture", "hardware", "pipelining", "cache"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Introduction to Probability and Statistics",
+    "author": "MIT Faculty Notes (18.05)",
+    "description": "Combines Bayesian and frequentist statistics. Essential mathematical foundations for any data scientist or machine learning engineer.",
+    "category": "Engineering Mathematics",
+    "tags": ["probability", "statistics", "bayesian", "data science"],
+    "externalLink": "https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/",
+    "coverUrl": "/covers/math.svg"
+  },
+  {
+    "title": "Feedback Systems: An Introduction for Scientists and Engineers",
+    "author": "Karl Johan Åström, Richard M. Murray",
+    "description": "Reference material for dynamic systems and control theory, heavily utilized in aerospace and mechanical engineering robotics.",
+    "category": "Mechanical Engineering",
+    "tags": ["control theory", "feedback systems", "robotics", "dynamics"],
+    "externalLink": "https://ocw.mit.edu/courses/mechanical-engineering/2-14-analysis-and-design-of-feedback-control-systems-spring-2007/",
+    "coverUrl": "/covers/mechanical.svg"
+  },
+  {
+    "title": "Computation Structures",
+    "author": "Stephen Ward, Chris Terman",
+    "description": "Explore the layers of abstraction from digital logic gates to a complete multitasking OS. The foundational architecture course (6.004).",
+    "category": "Computer Science (Logic)",
+    "tags": ["digital logic", "hardware architecture", "assembly", "fpga"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Cellular Solids: Structure and Properties",
+    "author": "Lorna J. Gibson",
+    "description": "Explores specialized material science focusing on foams and porous structures and their mechanical, thermal, and electrical properties.",
+    "category": "Civil Engineering",
+    "tags": ["material science", "polymers", "cellular solids", "structures"],
+    "externalLink": "https://ocw.mit.edu/courses/materials-science-and-engineering/3-054-cellular-solids-structure-properties-and-applications-spring-2015/",
+    "coverUrl": "/covers/civil.svg"
+  },
+  {
+    "title": "Intro to C++ and Object-Oriented Analysis",
+    "author": "MIT Faculty Notes (6.096)",
+    "description": "Teaches standard C++ alongside object-oriented philosophy. Covers templates, the STL, memory management, and pointers.",
+    "category": "Computer Science (Logic)",
+    "tags": ["C++", "OOP", "memory management", "STL"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Astrophysics I",
+    "author": "Paul Schechter",
+    "description": "An introduction to theoretical astrophysics. Covers stellar structures, energy transport, star formation, and white dwarfs.",
+    "category": "Applied Physics",
+    "tags": ["astrophysics", "stars", "physics", "universe"],
+    "externalLink": "https://ocw.mit.edu/courses/physics/8-282j-introduction-to-astronomy-spring-2006/",
+    "coverUrl": "/covers/physics.svg"
+  },
+  {
+    "title": "Fundamentals of Biology",
+    "author": "Eric Lander, Robert Weinberg",
+    "description": "Pioneering genetics and cellular biology textbook. Discusses recombinant DNA technology, genomics, protein synthesis, and biochemistry.",
+    "category": "Applied Science",
+    "tags": ["biology", "genetics", "biochemistry", "DNA"],
+    "externalLink": "https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-2004/",
+    "coverUrl": "/covers/chemistry.svg"
+  },
+  {
+    "title": "Convex Optimization",
+    "author": "MIT Faculty Notes (6.253)",
+    "description": "Deeply mathematical approach to convex sets, functions, and solving optimization problems essential in machine learning algorithm design.",
+    "category": "Engineering Mathematics",
+    "tags": ["optimization", "convex sets", "machine learning math", "operations research"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/",
+    "coverUrl": "/covers/math.svg"
+  },
+  {
+    "title": "Quantum Computation and Quantum Information",
+    "author": "Isaac Chuang, Michael Nielsen",
+    "description": "The definitive textbook for quantum computing used in MIT's 2.111. Explains qubits, quantum circuits, Shor's algorithm, and quantum error correction.",
+    "category": "Computer Science (Logic)",
+    "tags": ["quantum computing", "qubits", "algorithms", "error correction"],
+    "externalLink": "https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Nuclear Reactor Engineering",
+    "author": "MIT Faculty Notes (22.05)",
+    "description": "Detailed notes on neutronics, heat generation, reactor safety, and fluid dynamics specifically relating to core thermodynamic properties.",
+    "category": "Mechanical Engineering",
+    "tags": ["nuclear engineering", "reactors", "thermodynamics", "energy"],
+    "externalLink": "https://ocw.mit.edu/courses/nuclear-science-and-engineering/22-05-neutron-science-and-reactor-physics-fall-2015/",
+    "coverUrl": "/covers/mechanical.svg"
+  },
+  {
+    "title": "Environmental Chemistry",
+    "author": "MIT Faculty Notes (1.74)",
+    "description": "Examines water quality, chemical transport in the environment, soil phase kinetics, and organic pollutant degradation pathways.",
+    "category": "Environmental Engineering",
+    "tags": ["environmental chemistry", "pollution", "water quality", "soil science"],
+    "externalLink": "https://ocw.mit.edu/courses/civil-and-environmental-engineering/1-74-land-water-food-and-climate-fall-2020/",
+    "coverUrl": "/covers/civil.svg"
+  },
+  {
+    "title": "Bioinformatics and Proteomics",
+    "author": "Manolis Kellis",
+    "description": "An introduction to computational biology, sequencing algorithms, hidden Markov models, and evolutionary phylogenetics.",
+    "category": "Computer Science (Logic)",
+    "tags": ["bioinformatics", "computational biology", "algorithms", "HMM"],
+    "externalLink": "https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Design and Analysis of Feedback Systems",
+    "author": "MIT Faculty Notes (2.14)",
+    "description": "Detailed frequency domain analysis of closed-loop systems, PID controllers, Nyquist stability, and practical compensation networks.",
+    "category": "Electrical Engineering",
+    "tags": ["feedback", "PID", "systems engineering", "control theory"],
+    "externalLink": "https://ocw.mit.edu/courses/mechanical-engineering/2-14-analysis-and-design-of-feedback-control-systems-spring-2007/",
+    "coverUrl": "/covers/electrical.svg"
+  },
+  {
+    "title": "Software Architecture",
+    "author": "Daniel Jackson",
+    "description": "Using the Alloy modeling language to analyze complex system designs and identify software flaws long before writing the first line of code.",
+    "category": "Computer Science (Logic)",
+    "tags": ["architecture", "alloy", "formal methods", "system design"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-821-studio-in-software-design-fall-2005/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Network and Computer Security",
+    "author": "Ronald L. Rivest",
+    "description": "Core MIT course focusing on applied cryptography, secure network protocols, threat modeling, and defending against adversarial exploitation.",
+    "category": "Computer Science (Logic)",
+    "tags": ["cybersecurity", "cryptography", "networks", "threat modeling"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-857-network-and-computer-security-spring-2014/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Dynamics of Non-Linear Systems",
+    "author": "Jean-Jacques Slotine",
+    "description": "Advanced robotics materials detailing Lyapunov stability, nonlinear observer design, and adaptive control mechanisms for autonomous navigation.",
+    "category": "Mechanical Engineering",
+    "tags": ["nonlinear dynamics", "robotics", "lyapunov", "adaptive control"],
+    "externalLink": "https://ocw.mit.edu/courses/mechanical-engineering/2-152j-nonlinear-control-spring-2004/",
+    "coverUrl": "/covers/mechanical.svg"
+  },
+  {
+    "title": "High-Speed Communication Circuits",
+    "author": "Hae-Seung Lee",
+    "description": "Deep dive into RF circuit design, phased locked loops, frequency synthesizers, and designing high frequency CMOS technologies.",
+    "category": "Electrical Engineering",
+    "tags": ["RF circuits", "CMOS", "high speed", "telecom hardware"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-776-high-speed-communication-circuits-spring-2005/",
+    "coverUrl": "/covers/electrical.svg"
+  },
+  {
+    "title": "Distributed Algorithms",
+    "author": "Nancy Lynch",
+    "description": "Mathematical framework studying the consensus problem, leader election, fault tolerance, and synchronization in distributed computing networks.",
+    "category": "Computer Science (Logic)",
+    "tags": ["distributed computing", "consensus", "fault tolerance", "algorithms"],
+    "externalLink": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-852j-distributed-algorithms-fall-2009/",
+    "coverUrl": "/covers/computer-science.svg"
+  },
+  {
+    "title": "Introduction to Robotics",
+    "author": "Harry Asada",
+    "description": "Kinematics, dynamics, and trajectory generation for robotic manipulators. A fundamental course in the MIT mechanical engineering path.",
+    "category": "Mechanical Engineering",
+    "tags": ["robotics", "kinematics", "manipulators", "automation"],
+    "externalLink": "https://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/",
+    "coverUrl": "/covers/mechanical.svg"
+  }
+]
