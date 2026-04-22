@@ -1,0 +1,27 @@
+<svg width="320" height="160" viewBox="0 0 320 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="160" rx="24" fill="#020617"/>
+  <rect x="18" y="32" width="40" height="96" rx="4" fill="#0EA5E9"/>
+  <rect x="66" y="40" width="40" height="88" rx="4" fill="#22C55E"/>
+  <rect x="114" y="28" width="40" height="100" rx="4" fill="#6366F1"/>
+  <rect x="162" y="48" width="40" height="80" rx="4" fill="#F97316"/>
+  <rect x="210" y="36" width="40" height="92" rx="4" fill="#EC4899"/>
+  <rect x="258" y="52" width="40" height="76" rx="4" fill="#0F172A" stroke="#38BDF8" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle cx="52" cy="24" r="4" fill="#38BDF8"/>
+  <circle cx="132" cy="16" r="3" fill="#22C55E"/>
+  <circle cx="220" cy="20" r="3" fill="#FBBF24"/>
+  <circle cx="288" cy="28" r="2.5" fill="#E5E7EB"/>
+  <path d="M262 120C270 110 284 110 292 120" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M264 108C270 102 282 102 288 108" stroke="#22C55E" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <rect x="30" y="44" width="16" height="4" rx="2" fill="#E0F2FE"/>
+  <rect x="78" y="52" width="16" height="4" rx="2" fill="#DCFCE7"/>
+  <rect x="126" y="40" width="20" height="4" rx="2" fill="#EEF2FF"/>
+  <rect x="174" y="60" width="18" height="4" rx="2" fill="#FFEDD5"/>
+  <rect x="222" y="48" width="18" height="4" rx="2" fill="#FCE7F3"/>
+  <rect x="30" y="108" width="22" height="4" rx="2" fill="#0C4A6E" opacity="0.7"/>
+  <rect x="78" y="116" width="22" height="4" rx="2" fill="#064E3B" opacity="0.7"/>
+  <rect x="126" y="104" width="28" height="4" rx="2" fill="#1E3A8A" opacity="0.7"/>
+  <rect x="174" y="120" width="26" height="4" rx="2" fill="#7C2D12" opacity="0.7"/>
+  <rect x="222" y="108" width="24" height="4" rx="2" fill="#9D174D" opacity="0.7"/>
+  <text x="24" y="22" fill="#E5E7EB" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">ASTU SMART SHELVES</text>
+  <text x="24" y="142" fill="#9CA3AF" font-size="9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Each bar represents desktops available in a library zone.</text>
+</svg>
