@@ -1,0 +1,24 @@
+<svg width="320" height="180" viewBox="0 0 320 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="180" rx="24" fill="#020617"/>
+  <rect x="16" y="20" width="288" height="120" rx="18" fill="#020617" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="32" y="36" width="192" height="88" rx="10" fill="#0F172A" stroke="#1F2937"/>
+  <rect x="40" y="44" width="176" height="56" rx="8" fill="#020617"/>
+  <rect x="40" y="106" width="176" height="10" rx="4" fill="#0B1120"/>
+  <circle cx="52" cy="56" r="4" fill="#22C55E"/>
+  <circle cx="64" cy="56" r="4" fill="#F97316"/>
+  <circle cx="76" cy="56" r="4" fill="#EF4444"/>
+  <rect x="52" y="70" width="80" height="6" rx="3" fill="#38BDF8"/>
+  <rect x="52" y="82" width="52" height="6" rx="3" fill="#4ADE80" opacity="0.8"/>
+  <rect x="52" y="94" width="40" height="6" rx="3" fill="#FACC15" opacity="0.8"/>
+  <rect x="140" y="70" width="60" height="24" rx="6" fill="#1D283A" stroke="#38BDF8"/>
+  <circle cx="156" cy="82" r="8" fill="#0EA5E9"/>
+  <rect x="170" y="76" width="22" height="4" rx="2" fill="#E5E7EB"/>
+  <rect x="170" y="84" width="18" height="3" rx="1.5" fill="#9CA3AF"/>
+  <rect x="112" y="140" width="96" height="7" rx="3.5" fill="#0F172A"/>
+  <rect x="96" y="147" width="128" height="8" rx="4" fill="#020617" stroke="#1E293B"/>
+  <circle cx="124" cy="126" r="16" fill="#0EA5E9"/>
+  <path d="M124 115C118 115 114 119 114 125C114 131 118 135 124 135C130 135 134 131 134 125C134 119 130 115 124 115Z" fill="#E5E7EB"/>
+  <path d="M116 137C118.5 140.5 121 142 124 142C127 142 129.5 140.5 132 137" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <text x="208" y="46" fill="#E5E7EB" font-size="9" text-anchor="end" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">FOCUSED SESSION</text>
+  <text x="24" y="166" fill="#9CA3AF" font-size="9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Students work on reserved desktops with stable connection and tracking.</text>
+</svg>
