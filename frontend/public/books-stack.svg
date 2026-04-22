@@ -1,0 +1,18 @@
+<svg width="320" height="180" viewBox="0 0 320 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="180" rx="24" fill="#020617"/>
+  <rect x="36" y="120" width="248" height="8" rx="4" fill="#020617" stroke="#1F2937"/>
+  <rect x="52" y="104" width="200" height="18" rx="6" fill="#0EA5E9"/>
+  <rect x="52" y="106" width="200" height="4" rx="2" fill="#E0F2FE" opacity="0.9"/>
+  <rect x="52" y="80" width="184" height="18" rx="6" fill="#22C55E"/>
+  <rect x="52" y="82" width="184" height="4" rx="2" fill="#DCFCE7" opacity="0.9"/>
+  <rect x="52" y="56" width="168" height="18" rx="6" fill="#6366F1"/>
+  <rect x="52" y="58" width="168" height="4" rx="2" fill="#E0E7FF" opacity="0.9"/>
+  <rect x="52" y="32" width="152" height="18" rx="6" fill="#F97316"/>
+  <rect x="52" y="34" width="152" height="4" rx="2" fill="#FFEDD5" opacity="0.9"/>
+  <rect x="76" y="32" width="12" height="18" rx="3" fill="#0F172A" opacity="0.7"/>
+  <rect x="88" y="56" width="10" height="18" rx="3" fill="#020617" opacity="0.7"/>
+  <rect x="96" y="80" width="10" height="18" rx="3" fill="#020617" opacity="0.7"/>
+  <rect x="110" y="104" width="10" height="18" rx="3" fill="#020617" opacity="0.7"/>
+  <text x="40" y="154" fill="#E5E7EB" font-size="10" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">"A library is not a luxury but one of the necessities of life."</text>
+  <text x="40" y="168" fill="#9CA3AF" font-size="9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">— Henry Ward Beecher</text>
+</svg>
