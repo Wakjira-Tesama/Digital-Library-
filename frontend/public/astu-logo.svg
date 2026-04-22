@@ -1,0 +1,37 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gateGradient" x1="10" y1="90" x2="110" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="0.4" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <linearGradient id="ringGradient" x1="20" y1="100" x2="100" y2="20" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="120" height="120" rx="32" fill="#020617"/>
+  <rect x="6" y="6" width="108" height="108" rx="28" fill="#020617" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Outer soft ring -->
+  <circle cx="60" cy="60" r="40" fill="url(#ringGradient)" stroke="#1F2937" stroke-width="1.5"/>
+
+  <!-- Stylised triple gate inspired by ASTU gate -->
+  <path d="M30 78C32 58 42 44 60 44C78 44 88 58 90 78" stroke="url(#gateGradient)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M36 80C38 63 46 52 60 52C74 52 82 63 84 80" stroke="url(#gateGradient)" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+  <path d="M42 82C44 69 50 60 60 60C70 60 76 69 78 82" stroke="url(#gateGradient)" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- Base line / road -->
+  <path d="M30 86H90" stroke="#0EA5E9" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 3" opacity="0.8"/>
+
+  <!-- Small digital nodes -->
+  <circle cx="40" cy="40" r="3" fill="#22C55E"/>
+  <circle cx="80" cy="38" r="3" fill="#38BDF8"/>
+  <circle cx="60" cy="32" r="2.5" fill="#A855F7"/>
+
+  <!-- Text -->
+  <text x="60" y="102" text-anchor="middle" fill="#E5E7EB" font-size="9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" letter-spacing="0.08em">
+    ASTU DIGITAL LIBRARY
+  </text>
+</svg>
