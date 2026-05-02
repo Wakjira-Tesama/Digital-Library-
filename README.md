@@ -41,6 +41,105 @@ Powered by **Gemini 1.5 Flash**, the AI Scholar is your personal research compan
 - **Global Admin Control**: Manage all library locations, announcements, and global user permissions.
 - **Localized Librarians**: Node-specific management of inventory, terminal pools, and chat support.
 
+## 📊 Use Case & Logic Flow
+
+### Use Case Diagram
+The following diagram highlights the core interactions within the ASTU Libris ecosystem:
+
+```mermaid
+useCaseDiagram
+    actor "Student" as S
+    actor "Librarian/Admin" as L
+    actor "General Admin" as GA
+    actor "AI Scholar" as AI
+
+    package "Digital Library Nexus" {
+        usecase "Neural Book Search" as UC1
+        usecase "AI Chat & Research" as UC2
+        usecase "Reserve Smart Terminal" as UC3
+        usecase "Manage Library Node" as UC4
+        usecase "System Configuration" as UC5
+        usecase "OCR Document Parsing" as UC6
+    }
+
+    S --> UC1
+    S --> UC2
+    S --> UC3
+    S --> UC6
+    
+    L --> UC4
+    L --> UC1
+    
+    GA --> UC5
+    GA --> UC4
+
+    AI ..> UC2 : Powers
+    AI ..> UC3 : Suggests Slots
+```
+
+### Sequence Diagram: AI Scholar Chat Flow
+This is the high-concurrency flow for a typical AI research session:
+
+```mermaid
+sequenceDiagram
+    participant S as Student
+    participant F as Frontend (React)
+    participant B as Backend (Node.js)
+    participant G as Gemini 1.5 Flash
+    participant D as MongoDB
+
+    S->>F: Enter Message ("Suggest a book on Physics")
+    F->>B: POST /api/ai/chat
+    B->>D: Fetch Inventory & Terminal Slots
+    D-->>B: Books + Available Terminals
+    B->>G: Send Context + Message
+    G-->>B: Response Text + [SLOT_SUGGESTION]
+    B-->>F: JSON Response
+    F->>S: Display Message + Fast-Track Booking Button
+```
+
+---
+
+## ⚡ 3D Neural Movement
+
+ASTU Libris features a signature **3D Neural Movement** that brings the interface to life. This is achieved through a combination of CSS 3D transforms and hardware-accelerated animations.
+
+### Implementation Snippet: 3D Floating Book
+The "3D Float" effect creates a parallax-like depth in the digital library grid:
+
+```css
+/* Core 3D Movement Engine */
+.astu-3d-nexus {
+  transform-style: preserve-3d;
+  perspective: 1000px;
+}
+
+.astu-float-3d {
+  animation: float3D 8s ease-in-out infinite;
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes float3D {
+  0%, 100% { 
+    transform: translateY(0) rotateX(0deg) rotateY(0deg); 
+  }
+  25% { 
+    transform: translateY(-15px) rotateX(5deg) rotateY(2deg); 
+  }
+  50% { 
+    transform: translateY(-5px) rotateX(-2deg) rotateY(-5deg); 
+  }
+  75% { 
+    transform: translateY(-12px) rotateX(3deg) rotateY(4deg); 
+  }
+}
+
+.astu-float-3d:hover {
+  transform: translateZ(50px) scale(1.05);
+  box-shadow: 0 30px 60px rgba(99, 102, 241, 0.3);
+}
+```
+
 ---
 
 ## 🏗 System Architecture
